@@ -1,3 +1,8 @@
+# Crypto-Currency Price Tracker
+This is a simple crypto price tracker app that will allow you to check coins prices in real time 
+i use coingecko API
+all data are fetching from coingecko public api.
+you're free to fork this repo and add your own code on top.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
